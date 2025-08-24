@@ -26,7 +26,7 @@ label.TextColor3 = Color3.fromRGB(255, 255, 255)
 label.TextWrapped = true
 label.Font = Enum.Font.SourceSans
 label.TextSize = 22
-label.Text = [[🚫 Script requires the teleport function, but it is blocked due to the Anti-Scam feature.
+label.Text = [[🚫 Script is Blocked.
 
 To disable this feature:
 1) Rejoin the game
