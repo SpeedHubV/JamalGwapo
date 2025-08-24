@@ -25,7 +25,7 @@ label.BackgroundTransparency = 1
 label.TextColor3 = Color3.fromRGB(255, 255, 255)
 label.TextWrapped = true
 label.Font = Enum.Font.SourceSans
-label.TextSize = 10
+label.TextSize = 5
 label.Text = [[🚫 Script is Blocked.
 1) Turn off Anti-Scam
 2) Rejoin the game
