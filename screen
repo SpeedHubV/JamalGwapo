@@ -39,7 +39,7 @@ button.Position = UDim2.new(0.3, 0, 0.75, 0)
 button.BackgroundColor3 = Color3.fromRGB(0, 122, 255)
 button.TextColor3 = Color3.fromRGB(255, 255, 255)
 button.Font = Enum.Font.SourceSansBold
-button.TextSize = 24
+button.TextSize = 8
 button.Text = "Rejoin"
 button.Parent = frame
 
@@ -47,3 +47,5 @@ button.Parent = frame
 button.MouseButton1Click:Connect(function()
 	TeleportService:Teleport(game.PlaceId, player)
 end)
+
+--- this script made by jamal ---
